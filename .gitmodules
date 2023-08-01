@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OUwie"]
+	path = OUwie
+	url = https://github.com/thej022214/ouwie
 [submodule "corHMM"]
 	path = corHMM
 	url = https://github.com/thej022214/corhmm
 [submodule "hisse"]
 	path = hisse
 	url = https://github.com/thej022214/hisse
-[submodule "OUwie"]
-	path = OUwie
-	url = https://github.com/thej022214/ouwie
