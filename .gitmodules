@@ -8,6 +8,10 @@
 [submodule "corHMM"]
 	path = corHMM
 	url = https://github.com/thej022214/corhmm
+[submodule "dentist"]
+	path = dentist
+	url = https://github.com/bomeara/dentist
+	registered = false
 [submodule "hisse"]
 	path = hisse
 	url = https://github.com/thej022214/hisse
